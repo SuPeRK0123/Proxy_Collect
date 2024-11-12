@@ -1,0 +1,20 @@
+# 参考https://support.apple.com/zh-cn/102266
+# 17.0.0.0/8 这个地址块已分配给Apple。
+
+DOMAIN-SUFFIX, push.apple.com
+DOMAIN, identity.apple.com
+# IPV4
+IP-CIDR, 17.249.0.0/16
+IP-CIDR, 17.252.0.0/16
+IP-CIDR, 17.57.144.0/22
+IP-CIDR, 17.188.128.0/18
+IP-CIDR, 17.188.20.0/23
+# IPV6
+IP-CIDR6, 2620:149:a44::/48
+IP-CIDR6, 2403:300:a42::/48
+IP-CIDR6, 2403:300:a51::/48
+IP-CIDR6, 2a01:b740:a42::/48
+
+# 非官方标注
+IP-CIDR, 17.248.152.0/24
+IP-CIDR, 17.253.0.0/16
