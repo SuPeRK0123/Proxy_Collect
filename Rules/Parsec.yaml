@@ -1,0 +1,6 @@
+# Parsec
+
+payload:
+  - DOMAIN-SUFFIX, parsec.app
+  - DOMAIN, builds.parsecgaming.com
+  - DOMAIN, parsecusercontent.com
