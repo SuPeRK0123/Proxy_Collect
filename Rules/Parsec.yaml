@@ -1,6 +1,8 @@
 # Parsec
 
 payload:
-  - DOMAIN-SUFFIX, parsec.app
-  - DOMAIN, builds.parsecgaming.com
-  - DOMAIN, parsecusercontent.com
+  - DOMAIN-SUFFIX,parsec.app
+  - DOMAIN,parsecusercontent.com
+  - DOMAIN,builds.parsecgaming.com
+  - IP-CIDR,3.228.228.84/32
+  - IP-CIDR,2600:1f18:63d9:c507:1111:1111:1111:1111/128
