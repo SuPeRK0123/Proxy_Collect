@@ -6,3 +6,5 @@ IP-CIDR, 3.228.228.84/32, no-resolve
 IP-CIDR, 35.169.37.243/32, no-resolve
 IP-CIDR, 52.86.26.213/32, no-resolve
 IP-CIDR6, 2600:1f18:63d9:c500::/60, no-resolve
+# SSDP组播
+IP-CIDR, 239.255.255.250/32, no-resolve
