@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "parsec.app"
+      ],
+      "domain": [
+        "parsecusercontent.com",
+        "builds.parsecgaming.com"
+      ]
+    }
+  ]
+}
