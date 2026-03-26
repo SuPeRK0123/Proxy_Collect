@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api.statsig.com",
+        "api-iam.intercom.io",
+        "o33249.ingest.sentry.io",
+        "openaiapi-site.azureedge.net"
+      ],
+      "domain_suffix": [
+        "claude.ai",
+        "claude.com",
+        "anthropic.com",
+        "chatgpt.com",
+        "chat.com",
+        "livekit.cloud",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "sora.com"
+      ],
+      "domain_keyword": [
+        "openai",
+        "openaiapi",
+        "openaicom"
+      ]
+    }
+  ]
+}
