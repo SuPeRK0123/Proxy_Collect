@@ -9,16 +9,16 @@
         "openaiapi-site.azureedge.net"
       ],
       "domain_suffix": [
-        "claude.ai",
-        "claude.com",
-        "anthropic.com",
-        "chatgpt.com",
-        "chat.com",
-        "livekit.cloud",
-        "oaistatic.com",
-        "oaiusercontent.com",
-        "openai.com",
-        "sora.com"
+        ".claude.ai",
+        ".claude.com",
+        ".anthropic.com",
+        ".chatgpt.com",
+        ".chat.com",
+        ".livekit.cloud",
+        ".oaistatic.com",
+        ".oaiusercontent.com",
+        ".openai.com",
+        ".sora.com"
       ],
       "domain_keyword": [
         "openai",
