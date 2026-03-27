@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain": [
+        "anthropic.com",
+        "clau.de",
+        "claude.ai",
+        "claude.com",
         "api.statsig.com",
         "api-iam.intercom.io",
         "o33249.ingest.sentry.io",
