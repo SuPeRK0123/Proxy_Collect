@@ -1,7 +1,9 @@
 DOMAIN,grok.x.com
+DOMAIN,grok.com
+DOMAIN,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,grok.x.com
 
 DOMAIN,generativeai.google
 DOMAIN,deepmind.google
